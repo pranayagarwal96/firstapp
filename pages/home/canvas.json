@@ -1604,7 +1604,7 @@
                                       "animateLoading": true,
                                       "parentColumnSpace": 4.171295166015625,
                                       "dynamicTriggerPathList": [],
-                                      "leftColumn": 57,
+                                      "leftColumn": 55,
                                       "dynamicBindingPathList": [
                                         {
                                           "key": "buttonColor"
@@ -1616,7 +1616,7 @@
                                       "isDisabled": false,
                                       "key": "j52ty9c05p",
                                       "isDeprecated": false,
-                                      "rightColumn": 63,
+                                      "rightColumn": 61,
                                       "iconName": "th-list",
                                       "widgetId": "jptslfgnir",
                                       "isVisible": true,
